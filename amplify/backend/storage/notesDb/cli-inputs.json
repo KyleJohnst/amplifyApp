@@ -1,0 +1,14 @@
+{
+  "resourceName": "notesDb",
+  "policyUUID": "f0fec0a1",
+  "bucketName": "amplifyapp451194933a0247f8a8dd9f4f11f835b0",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
